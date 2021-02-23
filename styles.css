@@ -21,35 +21,35 @@ body {
     width: 400px;
     height: 400px;
     top: 700px;
-    left: 250px;
+    left: 12.5%;
 }
 
 #ascent {
     width: 400px;
     height: 400px;
     top: 700px;
-    left: 775px;
+    left: 40%;
 }
 
 #icebox {
     width: 400px;
     height: 400px;
     top: 700px;
-    left: 1250px;
+    left: 65%;
 }
 
 #split {
     width: 400px;
     height: 400px;
     top: 1300px;
-    left: 500px;
+    left: 27%;
 }
 
 #bind {
     width: 400px;
     height: 400px;
     top: 1300px;
-    left: 1050px;
+    left: 55%;
 }
 
 #cypher {
@@ -62,12 +62,14 @@ body {
 
 #desc {
     font-size: 28px;
+    text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
     color: midnightblue;
     top: 2250px;
-    left: 1000px;
-    text-indent: 100px;
+    left: 900px;
+    text-indent: 75px;
+    width: 950px;
 }
 
 #cam {
