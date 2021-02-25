@@ -26,7 +26,7 @@ body {
     color: midnightblue;
     position: absolute;
     top: 45%;
-    left: 75%;
+    left: 80%;
 }
 
 #defending {
@@ -35,7 +35,7 @@ body {
     color: black;
     position: absolute;
     top: 70%;
-    left: 75%;
+    left: 80%;
 }
 
 #desc {
@@ -70,5 +70,81 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 40px;
     left: 45%;
-    top: 300%;
+    top: 615%;
+}
+
+.aLongHeader {
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.text {
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    position: absolute;
+}
+
+#ayLong {
+    top: 275%;
+    left: 20%;
+}
+
+.seperator {
+    width: 1250px;
+    height: 5px;
+    background-color: lightslategray;
+    position: absolute;
+    border-radius: 4px;
+    left: 18%;
+}
+
+#aLongSep {
+    top: 295%;
+}
+
+#ayyLong {
+    top: 410%;
+    left: 25%;
+    text-indent: 150px;
+}
+
+#aySite {
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    left: 23%;
+    top: 439%;
+}
+
+#ayySite {
+    left: 20%;
+    top: 440%;
+}
+
+#aLongCam {
+    left: 23%;
+    top: 158%;
+}
+
+#aLongWiresCages {
+    left: 23%;
+    top: 429%;
+}
+
+#alongwiredesc {
+    left: 25%;
+    top: 555%;
+    text-align: center;
+}
+
+#wirecageSep {
+    top: 580%;
+}
+
+#cages {
+    top: 590%;
+    left: 15%;
+    text-align: center;
 }
